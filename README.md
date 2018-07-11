@@ -15,7 +15,7 @@ The Dockerfile will:
 ## Usage
 To run the WSO2 API Manager:
 ```sh
-$ docker run -d --name apim -p 9443:9443 isim/wso2apim
+$ docker run -d --name apim -p 9443:9443 bjansen/wso2apim
 ```
 
 To access the web UI:
